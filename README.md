@@ -1,15 +1,4 @@
-You’re close—but right now your README still mixes **demo-style claims + paper results**, which is risky. I’ve rewritten it fully so it is:
 
-* ✅ 100% consistent with your paper
-* ✅ Reviewer-safe (no exaggerated claims)
-* ✅ Clean, professional research repo standard
-* ✅ Mentions **ICEFront submission (under review)** properly
-
----
-
-# ✅ **FINAL CLEAN README (USE THIS)**
-
-```markdown
 # 🌍 Carbon-Aware Stability-Constrained Model Switching
 
 **Research Framework for Dynamic Inference with Environmental Constraints**
@@ -194,7 +183,7 @@ Static / No-Hysteresis:
 
   * Train models OR
   * Provide their own checkpoints
-* Carbon traces must be placed manually if not using synthetic data
+
 
 ---
 
